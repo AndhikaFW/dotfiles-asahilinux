@@ -1,0 +1,13 @@
+[Number]
+NumberOfWindows=1
+
+[WindowProperties1]
+1707x1067 screen: Height=480
+1707x1067 screen: Width=640
+1707x1067 screen: XPosition=0
+1707x1067 screen: YPosition=0
+ClassName=KMixWindow
+None-1=None-1
+ObjectName=KMixWindow
+State=AAAA/wAAAAD9AAAAAAAAAAAAAAAAAAAABAAAAAQAAAAIAAAACPwAAAAA
+ToolBarsMovable=Disabled

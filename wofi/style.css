@@ -1,0 +1,52 @@
+/*
+Arc-Dark Color Scheme
+*/
+
+@define-color blue #00cebd;
+@define-color grey1 #2f302f;
+@define-color grey2 #232323;
+
+
+*{
+    font-family: JetBrains Mono Nerd Font;
+}
+
+window {
+}
+
+#input {
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border:none;
+    color: grey1;
+}
+
+#inner-box {
+    background-color: @grey2;
+
+}
+
+#outer-box {
+    margin: 0px;
+    padding: 15px;
+    background-color: @grey2;
+}
+
+#scroll {
+}
+
+#text {
+padding: 5px;
+color: white;
+}
+
+#entry:nth-child(even){
+    background-color: @grey1;
+}
+
+#entry:selected {
+    background-color: @blue;
+}
+
+#text:selected {
+}

@@ -1,0 +1,298 @@
+[ActivityManager]
+_k_friendly_name=Pengelola Aktivitas
+switch-to-activity-60ac101e-0482-45de-9333-82df746c0654=none,none,Alihkan ke aktivitas "Baku"
+
+[KDE Keyboard Layout Switcher]
+Switch to Next Keyboard Layout=Meta+Alt+K,Meta+Alt+K,Alihkan ke Tata Letak Papan Ketik Selanjutnya
+_k_friendly_name=Pengalih Tataletak Keyboard
+
+[kaccess]
+Toggle Screen Reader On and Off=Meta+Alt+S,Meta+Alt+S,Jungkitan On dan Off Pembaca Layar
+_k_friendly_name=Aksesibilitas
+
+[kcm_touchpad]
+Disable Touchpad=Touchpad Off,Touchpad Off,Nonfungsikan Touchpad
+Enable Touchpad=Touchpad On,Touchpad On,Fungsikan Touchpad
+Toggle Touchpad=Touchpad Toggle,Touchpad Toggle\tMeta+Ctrl+Zenkaku Hankaku,Jungkitan Touchpad
+_k_friendly_name=Touchpad
+
+[kded5]
+Show System Activity=Ctrl+Esc,Ctrl+Esc,Tampilkan Aktivitas Sistem
+_k_friendly_name=KDE Daemon
+display=Display\tMeta+P,Display\tMeta+P,Alih Display
+
+[khotkeys]
+_k_friendly_name=Layanan Pintasan Kustom
+{d03619b6-9b3c-48cc-9d9c-a2aadb485550}=none,none,Cari
+
+[kmix]
+_k_friendly_name=Volume Audio
+decrease_microphone_volume=Microphone Volume Down,Microphone Volume Down,Kurangi Volume Mikrofon
+decrease_volume=Volume Down,Volume Down,Kurangi Volume
+increase_microphone_volume=Microphone Volume Up,Microphone Volume Up,Tambahi Volume Mikrofon
+increase_volume=Volume Up,Volume Up,Tambahi Volume
+mic_mute=Microphone Mute\tMeta+Volume Mute,Microphone Mute\tMeta+Volume Mute,Senyapkan Mikrofon
+mute=Volume Mute,Volume Mute,Senyap
+
+[ksmserver]
+Halt Without Confirmation=none,,Halt Tanpa Konfirmasi
+Lock Session=Meta+L\tScreensaver,Meta+L\tScreensaver,Sesi Kunci
+Log Out=Ctrl+Alt+Del,Ctrl+Alt+Del,Keluar Log
+Log Out Without Confirmation=none,,Keluar Log Tanpa Konfirmasi
+Reboot Without Confirmation=none,,Nyalakan Ulang Tanpa Konfirmasi
+_k_friendly_name=Pengelolaan Sesi
+
+[kwin]
+Activate Window Demanding Attention=Meta+Ctrl+A,Meta+Ctrl+A,Aktifkan Jendela Memerlukan Perhatian
+Decrease Opacity=none,,Decrease Opacity of Active Window by 5%
+Edit Tiles=Meta+T,Meta+T,Toggle Tiles Editor
+Expose=Ctrl+F9,Ctrl+F9,Jungkit Present Windows (Desktop saat ini)
+ExposeAll=Ctrl+F10\tLaunch (C),Ctrl+F10\tLaunch (C),Jungkit Present Windows (Semua desktop)
+ExposeClass=Ctrl+F7,Ctrl+F7,Jungkit Present Windows (Kelas jendela)
+ExposeClassCurrentDesktop=none,none,Jungkit Present Windows (Kelas jendela di desktop saat ini)
+Increase Opacity=none,,Increase Opacity of Active Window by 5%
+Kill Window=Meta+Ctrl+Esc,Meta+Ctrl+Esc,Matikan Jendela
+Move Tablet to Next Output=none,none,Move the tablet to the next output
+MoveMouseToCenter=Meta+F6,Meta+F6,Pindah Mouse ke Tengah
+MoveMouseToFocus=Meta+F5,Meta+F5,Pindah Mouse ke Fokus
+MoveZoomDown=none,none,Pindah Area Zoom ke Bawah
+MoveZoomLeft=none,none,Pindah Area Zoom ke Kiri
+MoveZoomRight=none,none,Pindah Area Zoom ke Kanan
+MoveZoomUp=none,none,Pindah Area Zoom ke Atas
+Overview=Meta+W,Meta+W,Jungkit Lihat Keseluruhan
+Setup Window Shortcut=none,,Pengesetan Pintasan Jendela
+Show Desktop=Meta+D,Meta+D,Peek at Desktop
+ShowDesktopGrid=Meta+F8,Meta+F8,Tampilkan Petak Desktop
+Suspend Compositing=Alt+Shift+F12,Alt+Shift+F12,Suspensi Pengompositan
+Switch One Desktop Down=none,Meta+Ctrl+Down,Alihkan Satu Desktop ke Bawah
+Switch One Desktop Up=none,Meta+Ctrl+Up,Alihkan Satu Desktop ke Atas
+Switch One Desktop to the Left=none,Meta+Ctrl+Left,Alihkan Satu Desktop ke Kiri
+Switch One Desktop to the Right=none,Meta+Ctrl+Right,Alihkan Satu Desktop ke Kanan
+Switch Window Down=Meta+Alt+Down,Meta+Alt+Down,Alihkan ke Jendela di Bawah
+Switch Window Left=Meta+Alt+Left,Meta+Alt+Left,Alihkan ke Jendela di Kiri
+Switch Window Right=Meta+Alt+Right,Meta+Alt+Right,Alihkan ke Jendela di Kanan
+Switch Window Up=Meta+Alt+Up,Meta+Alt+Up,Alihkan ke Jendela di Atas
+Switch to Desktop 1=Ctrl+F1,Ctrl+F1,Alihkan ke Desktop 1
+Switch to Desktop 10=none,,Alihkan ke Desktop 10
+Switch to Desktop 11=none,,Alihkan ke Desktop 11
+Switch to Desktop 12=none,,Alihkan ke Desktop 12
+Switch to Desktop 13=none,,Alihkan ke Desktop 13
+Switch to Desktop 14=none,,Alihkan ke Desktop 14
+Switch to Desktop 15=none,,Alihkan ke Desktop 15
+Switch to Desktop 16=none,,Alihkan ke Desktop 16
+Switch to Desktop 17=none,,Alihkan ke Desktop 17
+Switch to Desktop 18=none,,Alihkan ke Desktop 18
+Switch to Desktop 19=none,,Alihkan ke Desktop 19
+Switch to Desktop 2=Ctrl+F2,Ctrl+F2,Alihkan ke Desktop 2
+Switch to Desktop 20=none,,Alihkan ke Desktop 20
+Switch to Desktop 3=Ctrl+F3,Ctrl+F3,Alihkan ke Desktop 3
+Switch to Desktop 4=Ctrl+F4,Ctrl+F4,Alihkan ke Desktop 4
+Switch to Desktop 5=none,,Alihkan ke Desktop 5
+Switch to Desktop 6=none,,Alihkan ke Desktop 6
+Switch to Desktop 7=none,,Alihkan ke Desktop 7
+Switch to Desktop 8=none,,Alihkan ke Desktop 8
+Switch to Desktop 9=none,,Alihkan ke Desktop 9
+Switch to Next Desktop=none,,Alihkan ke Desktop Selanjutnya
+Switch to Next Screen=none,,Alihkan ke Layar Selanjutnya
+Switch to Previous Desktop=none,,Alihkan ke Desktop Sebelumnya
+Switch to Previous Screen=none,,Alihkan ke Layar Sebelumnya
+Switch to Screen 0=none,,Alihkan ke Layar 0
+Switch to Screen 1=none,,Alihkan ke Layar 1
+Switch to Screen 2=none,,Alihkan ke Layar 2
+Switch to Screen 3=none,,Alihkan ke Layar 3
+Switch to Screen 4=none,,Alihkan ke Layar 4
+Switch to Screen 5=none,,Alihkan ke Layar 5
+Switch to Screen 6=none,,Alihkan ke Layar 6
+Switch to Screen 7=none,,Alihkan ke Layar 7
+Switch to Screen Above=none,,Switch to Screen Above
+Switch to Screen Below=none,,Switch to Screen Below
+Switch to Screen to the Left=none,,Switch to Screen to the Left
+Switch to Screen to the Right=none,,Switch to Screen to the Right
+Toggle Night Color=none,none,Jungkitan Warna Malam
+Toggle Window Raise/Lower=none,,Jungkit Naikkan/Turunkan Jendela
+Walk Through Desktop List=none,,Berjalan Antar Senarai Desktop
+Walk Through Desktop List (Reverse)=none,,Berjalan Antar Senarai Desktop (Kebalikan)
+Walk Through Desktops=none,,Berjalan Antar Desktop
+Walk Through Desktops (Reverse)=none,,Berjalan Antar Desktop (Kebalikan)
+Walk Through Windows=Alt+Tab,Alt+Tab,Berjalan Antar Jendela
+Walk Through Windows (Reverse)=Alt+Shift+Backtab,Alt+Shift+Backtab,Berjalan Antar Jendela (Kebalikan)
+Walk Through Windows Alternative=none,,Berjalan Antar Alternatif Jendela
+Walk Through Windows Alternative (Reverse)=none,,Berjalan Antar Alternatif Jendela (Kebalikan)
+Walk Through Windows of Current Application=Alt+`,Alt+`,Berjalan Antar Jendela Aplikasi Saat Ini
+Walk Through Windows of Current Application (Reverse)=Alt+~,Alt+~,Berjalan Antar Jendela Aplikasi Saat Ini (Kebalikan)
+Walk Through Windows of Current Application Alternative=none,,Berjalan Antar Alternatif Jendela Aplikasi Saat Ini
+Walk Through Windows of Current Application Alternative (Reverse)=none,,Berjalan Antar Alternatif Jendela Aplikasi Saat Ini (Kebalikan)
+Window Above Other Windows=none,,Jaga Jendela di Atas Lainnya
+Window Below Other Windows=none,,Jaga Jendela di Bawah Lainnya
+Window Close=Alt+F4,Alt+F4,Tutup Jendela
+Window Fullscreen=none,,Buat Jendela Layar Penuh
+Window Grow Horizontal=none,,Perluas Jendela Secara Mendatar
+Window Grow Vertical=none,,Perluas Jendela Secara Tegak
+Window Lower=none,,Turunkan Jendela
+Window Maximize=Meta+PgUp,Meta+PgUp,Maksimalkan Jendela
+Window Maximize Horizontal=none,,Maksimalkan Jendela Secara Mendatar
+Window Maximize Vertical=none,,Maksimalkan Jendela Secata Tegak
+Window Minimize=Meta+PgDown,Meta+PgDown,Minimalkan Jendela
+Window Move=none,,Pindahkan Jendela
+Window Move Center=none,,Pindahkan Jendela ke Tengah
+Window No Border=none,,Toggle Window Titlebar and Frame
+Window On All Desktops=none,,Jaga Jendela di Semua Desktop
+Window One Desktop Down=Meta+Ctrl+Shift+Down,Meta+Ctrl+Shift+Down,Jendela Satu Desktop ke Bawah
+Window One Desktop Up=Meta+Ctrl+Shift+Up,Meta+Ctrl+Shift+Up,Jendela Satu Desktop ke Atas
+Window One Desktop to the Left=Meta+Ctrl+Shift+Left,Meta+Ctrl+Shift+Left,Jendela Satu Desktop ke Kiri
+Window One Desktop to the Right=Meta+Ctrl+Shift+Right,Meta+Ctrl+Shift+Right,Jendela Satu Desktop ke Kanan
+Window One Screen Down=none,,Window One Screen Down
+Window One Screen Up=none,,Window One Screen Up
+Window One Screen to the Left=none,,Window One Screen to the Left
+Window One Screen to the Right=none,,Window One Screen to the Right
+Window Operations Menu=Alt+F3,Alt+F3,Menu Operasi Jendela
+Window Pack Down=none,,Pindah Jendela Bawah
+Window Pack Left=none,,Pindah Jendela Kiri
+Window Pack Right=none,,Pindah Jendela Kanan
+Window Pack Up=none,,Pindah Jendela Atas
+Window Quick Tile Bottom=Meta+Down,Meta+Down,Ubin Jendela Cepat ke Bawah
+Window Quick Tile Bottom Left=none,,Ubin Jendela Cepat ke Kiri Bawah
+Window Quick Tile Bottom Right=none,,Ubin Jendela Cepat ke Kanan Bawah
+Window Quick Tile Left=Meta+Left,Meta+Left,Ubin Jendela Cepat ke Kiri
+Window Quick Tile Right=Meta+Right,Meta+Right,Ubin Jendela Cepat ke Kanan
+Window Quick Tile Top=Meta+Up,Meta+Up,Ubin Jendela Cepat ke Atas
+Window Quick Tile Top Left=none,,Ubin Jendela Cepat ke Kiri Atas
+Window Quick Tile Top Right=none,,Ubin Jendela Cepat ke Kanan Atas
+Window Raise=none,,Naikkan Jendela
+Window Resize=none,,Ubah Ukuran Jendela
+Window Shade=none,,Tiraikan Jendela
+Window Shrink Horizontal=none,,Susutkan Jendela Secara Mendatar
+Window Shrink Vertical=none,,Susutkan Jendela Secara Tegak
+Window to Desktop 1=none,,Jendela ke Desktop 1
+Window to Desktop 10=none,,Jendela ke Desktop 10
+Window to Desktop 11=none,,Jendela ke Desktop 11
+Window to Desktop 12=none,,Jendela ke Desktop 12
+Window to Desktop 13=none,,Jendela ke Desktop 13
+Window to Desktop 14=none,,Jendela ke Desktop 14
+Window to Desktop 15=none,,Jendela ke Desktop 15
+Window to Desktop 16=none,,Jendela ke Desktop 16
+Window to Desktop 17=none,,Jendela ke Desktop 17
+Window to Desktop 18=none,,Jendela ke Desktop 18
+Window to Desktop 19=none,,Jendela ke Desktop 19
+Window to Desktop 2=none,,Jendela ke Desktop 2
+Window to Desktop 20=none,,Jendela ke Desktop 20
+Window to Desktop 3=none,,Jendela ke Desktop 3
+Window to Desktop 4=none,,Jendela ke Desktop 4
+Window to Desktop 5=none,,Jendela ke Desktop 5
+Window to Desktop 6=none,,Jendela ke Desktop 6
+Window to Desktop 7=none,,Jendela ke Desktop 7
+Window to Desktop 8=none,,Jendela ke Desktop 8
+Window to Desktop 9=none,,Jendela ke Desktop 9
+Window to Next Desktop=none,,Jendela ke Desktop Selanjutnya
+Window to Next Screen=Meta+Shift+Right,Meta+Shift+Right,Jendela ke Layar Selanjutnya
+Window to Previous Desktop=none,,Jendela ke Desktop Sebelumnya
+Window to Previous Screen=Meta+Shift+Left,Meta+Shift+Left,Jendela ke Layar Sebelumnya
+Window to Screen 0=none,,Jendela ke Layar 0
+Window to Screen 1=none,,Jendela ke Layar 1
+Window to Screen 2=none,,Jendela ke Layar 2
+Window to Screen 3=none,,Jendela ke Layar 3
+Window to Screen 4=none,,Jendela ke Layar 4
+Window to Screen 5=none,,Jendela ke Layar 5
+Window to Screen 6=none,,Jendela ke Layar 6
+Window to Screen 7=none,,Jendela ke Layar 7
+_k_friendly_name=KWin
+view_actual_size=Meta+0,Meta+0,Zoom ke Ukuran Sebenarnya
+view_zoom_in=Meta++\tMeta+=,Meta++,Zoom Perbesar
+view_zoom_out=Meta+-,Meta+-,Zoom Perkecil
+
+[mediacontrol]
+_k_friendly_name=Pengendali Media
+mediavolumedown=none,none,Turunkan volume media
+mediavolumeup=none,none,Naikkan volume media
+nextmedia=Media Next,Media Next,Pemainan media selanjutnya
+pausemedia=Media Pause,Media Pause,Jeda pemutaran media
+playmedia=none,none,Putar pemutaran media
+playpausemedia=Media Play,Media Play,Putar/Jeda pemutaran media
+previousmedia=Media Previous,Media Previous,Pemainan media sebelumnya
+stopmedia=Media Stop,Media Stop,Hentikan pemutaran media
+
+[org.kde.dolphin.desktop]
+_k_friendly_name=Dolphin
+_launch=Meta+E,Meta+E,Dolphin
+
+[org.kde.kcalc.desktop]
+_k_friendly_name=KCalc
+_launch=Launch (1),Launch (1),KCalc
+
+[org.kde.konsole.desktop]
+NewTab=none,none,Buka sebuah Tab Baru
+NewWindow=none,none,Buka Jendela Baru
+_k_friendly_name=Konsole
+_launch=Ctrl+Alt+T,Ctrl+Alt+T,Konsole
+
+[org.kde.krunner.desktop]
+RunClipboard=Alt+Shift+F2,Alt+Shift+F2,Jalankan perintah pada konten papan klip
+_k_friendly_name=KRunner
+_launch=Alt+Space\tAlt+F2\tSearch,Alt+Space\tAlt+F2\tSearch,KRunner
+
+[org.kde.plasma.emojier.desktop]
+_k_friendly_name=Pemilih Emoji
+_launch=Meta+.\tMeta+Ctrl+Alt+Shift+Space,Meta+.\tMeta+Ctrl+Alt+Shift+Space,Pemilih Emoji
+
+[org.kde.spectacle.desktop]
+ActiveWindowScreenShot=Meta+Print,Meta+Print,Tangkap Jendela Aktif
+CurrentMonitorScreenShot=none,none,Tangkap Pemantau Saat Ini
+FullScreenScreenShot=Shift+Print,Shift+Print,Tangkap Seluruh Desktop
+OpenWithoutScreenshot=none,none,Luncurkan tanpa menangkap sebuah tangkapan layar
+RectangularRegionScreenShot=Meta+Shift+Print,Meta+Shift+Print,Tangkap Bidang Persegi
+WindowUnderCursorScreenShot=Meta+Ctrl+Print,Meta+Ctrl+Print,Tangkap Layar Jendela Di Bawah Kursor
+_k_friendly_name=Spectacle
+_launch=Print,Print,Spectacle
+
+[org_kde_powerdevil]
+Decrease Keyboard Brightness=Keyboard Brightness Down,Keyboard Brightness Down,Kurangi Kecerahan Keyboard
+Decrease Screen Brightness=Monitor Brightness Down,Monitor Brightness Down,Kurangi Kecerahan Layar
+Hibernate=Hibernate,Hibernate,Hibernasi
+Increase Keyboard Brightness=Keyboard Brightness Up,Keyboard Brightness Up,Tambahi Kecerahan Keyboard
+Increase Screen Brightness=Monitor Brightness Up,Monitor Brightness Up,Tambahi Kecerahan Layar
+PowerDown=Power Down,Power Down,Matikan Daya
+PowerOff=Power Off,Power Off,Padam Daya
+Sleep=Sleep,Sleep,Suspensi
+Toggle Keyboard Backlight=Keyboard Light On/Off,Keyboard Light On/Off,Ubah Warna Cahayabelakang Keyboard
+Turn Off Screen=none,none,Padamkan Layar
+_k_friendly_name=Power Management
+
+[plasmashell]
+_k_friendly_name=Plasma
+activate task manager entry 1=Meta+1,Meta+1,Aktifkan Entri Task Manager 1
+activate task manager entry 10=none,Meta+0,Aktifkan Entri Task Manager 10
+activate task manager entry 2=Meta+2,Meta+2,Aktifkan Entri Task Manager 2
+activate task manager entry 3=Meta+3,Meta+3,Aktifkan Entri Task Manager 3
+activate task manager entry 4=Meta+4,Meta+4,Aktifkan Entri Task Manager 4
+activate task manager entry 5=Meta+5,Meta+5,Aktifkan Entri Task Manager 5
+activate task manager entry 6=Meta+6,Meta+6,Aktifkan Entri Task Manager 6
+activate task manager entry 7=Meta+7,Meta+7,Aktifkan Entri Task Manager 7
+activate task manager entry 8=Meta+8,Meta+8,Aktifkan Entri Task Manager 8
+activate task manager entry 9=Meta+9,Meta+9,Aktifkan Entri Task Manager 9
+activate widget 3=Alt+F1,none,Aktifkan Widget Peluncur Aplikasi
+clear-history=none,,Bersihkan Riwayat Papan Klip
+clipboard_action=Meta+Ctrl+X,Meta+Ctrl+X,Menu Tindakan Sembulan Otomatis
+cycle-panels=Meta+Alt+P,Meta+Alt+P,Pindah fokus keyboard antar panel
+cycleNextAction=none,,Item Riwayat Selanjutnya
+cyclePrevAction=none,,Item Riwayat Sebelumnya
+edit_clipboard=none,,Sunting Konten...
+manage activities=Meta+Q,Meta+Q,Tampilkan Pengalih Aktivitas
+next activity=Meta+Tab,none,Berjalan melalui aktivitas
+previous activity=Meta+Shift+Tab,none,Berjalan melalui aktivitas (Kebalikan)
+repeat_action=Meta+Ctrl+R,Meta+Ctrl+R,Panggil Tindakan Secara Manual di Papan Klip Saat Ini
+show dashboard=Ctrl+F12,Ctrl+F12,Tampilkan Desktop
+show-barcode=none,,Tampilkan Kode Bilah...
+show-on-mouse-pos=Meta+V,Meta+V,Tampilkan Item di Posisi Mouse
+stop current activity=Meta+S,Meta+S,Hentikan Aktivitas Saat Ini
+switch to next activity=none,,Beralih ke Aktivitas Selanjutnya
+switch to previous activity=none,,Beralih ke Aktivitas Sebelumnya
+toggle do not disturb=none,,Jungkitan jangan ganggu
+
+[systemsettings.desktop]
+_k_friendly_name=System Settings
+_launch=Tools,Tools,System Settings
+kcm-kscreen=none,none,Konfigurasi Display
+kcm-lookandfeel=none,none,Tema Global
+kcm-users=none,none,Pengguna
+powerdevilprofilesconfig=none,none,Hemat Energi
+screenlocker=none,none,Penguncian Layar

@@ -1,0 +1,18 @@
+[ExtractDialog]
+1280x800 screen: Window-Maximized=true
+DirHistory[$e]=$HOME/Unduhan/
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME
+Recent URLs[$e]=file:$HOME/Unduhan/,file:$HOME/
+detailViewIconSize=16
+
+[MainWindow]
+1280x800 screen: Window-Maximized=true
+State=AAAA/wAAAAD9AAAAAQAAAAEAAADLAAABPfwCAAAAAfsAAAAWAGEAcgBrAF8AcwBpAGQAZQBiAGEAcgEAAAAlAAABPQAAAHAA///+AAABkgAAAT0AAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+StatusBar=Disabled
+ToolBarsMovable=Disabled
